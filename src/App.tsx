@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, useLocation } from 'react-router-dom';
 import Cart from './components/Cart';
 import Footer from './components/Footer';
 import Header from './components/Header';
@@ -11,7 +11,7 @@ function App() {
   const [viewCart, setViewCart] = useState<boolean>(false);
 
   const pageContent = viewCart ? (
-    <Cart onBackToProducts={async () => setViewCart(false)} />
+    <Cart onBackToProducts={() => setViewCart(false)} />
   ) : (
     <ProductList />
   );

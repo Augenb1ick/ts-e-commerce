@@ -3,7 +3,6 @@ import React from 'react';
 type PropsType = {
   viewCart: boolean;
   setViewCart: React.Dispatch<React.SetStateAction<boolean>>;
-  totalItems: number;
 };
 
 function Nav({ viewCart, setViewCart }: PropsType) {

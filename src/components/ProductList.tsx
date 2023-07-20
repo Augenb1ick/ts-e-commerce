@@ -1,11 +1,10 @@
-import useCart from '../hooks/useCart';
-import useProducts from '../hooks/useProducts';
 import { ReactElement, useState } from 'react';
 import Product from './Product';
+import { products } from '../data/products';
+import { useAppSelector } from '../hooks/reduxHook';
 
 function ProductList() {
-  const { dispatch, REDUCER_ACTIONS, cart } = useCart();
-  const { products } = useProducts();
+  const cart = useAppSelector((state) => state.cart.list);
 
   const [currentProducts, setCurrentProducts] = useState(products);
 
@@ -14,15 +13,7 @@ function ProductList() {
   if (products?.length) {
     pageContent = currentProducts.map((product) => {
       const inCart: boolean = cart.some((item) => item.id === product.id);
-      return (
-        <Product
-          key={product.id}
-          product={product}
-          dispatch={dispatch}
-          REDUCER_ACTIONS={REDUCER_ACTIONS}
-          inCart={inCart}
-        />
-      );
+      return <Product key={product.id} product={product} inCart={inCart} />;
     });
   }
 
