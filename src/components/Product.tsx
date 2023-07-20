@@ -1,6 +1,6 @@
 import { useAppDispatch } from '../hooks/reduxHook';
 import { ProductType } from '../models/Product';
-import { memo, useState } from 'react';
+import { memo } from 'react';
 import { addToCart, removeFromCart } from '../store/cartSlice';
 
 type PropsType = {
