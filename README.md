@@ -11,10 +11,10 @@
 
 ## Технологии
 
-![TypeScript](https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg) <br />
-![ReactJS](https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg) <br />
-![Redux](https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg) <br />
-![Vite](https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg)
+[TypeScript](https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg)
+[ReactJS](https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg)
+[Redux](https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg)
+[Vite](https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg)
 
 **Vercel**
 
