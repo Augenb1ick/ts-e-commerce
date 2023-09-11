@@ -12,7 +12,7 @@
 ## Технологии
 
 ![TypeScript](https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg)
-![ReactJS](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![ReactJS](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux](https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg)
 ![Vite](https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg)
 
