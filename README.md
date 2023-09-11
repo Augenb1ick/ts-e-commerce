@@ -14,8 +14,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-**Vercel**
+##Vercel
 
-- [Ссылка на проект на Vercel](https://i-store-pearl.vercel.app/)
+[Ссылка на проект на Vercel](https://i-store-pearl.vercel.app/)
