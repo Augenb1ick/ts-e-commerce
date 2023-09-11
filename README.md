@@ -11,9 +11,9 @@
 
 ## Технологии
 
-![TypeScript](https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg)
-![ReactJS](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Redux](https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg)
 
 **Vercel**
