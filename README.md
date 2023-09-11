@@ -11,10 +11,10 @@
 
 ## Технологии
 
-- TypeScript;
-- React;
-- Redux;
-- Vite;
+![TypeScript](https://github.com/tandpfun/skill-icons/raw/main/.github/example-dark.png#gh-dark-mode-only)
+![ReactJS](https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg)
+![Redux](https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg)
+![Vite](https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg)
 
 **Vercel**
 
